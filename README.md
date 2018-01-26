@@ -1,7 +1,7 @@
 # PBfB
 **This project is useful** :sunflower:
 
-:/play ohmy:
+► /play ohmy
 
 If you ever need help, just ask this guy:
 
