@@ -3,6 +3,5 @@ install:
 
 script: 
   - proselint README.md
-  
 
 npm install --save markdown-link-check
