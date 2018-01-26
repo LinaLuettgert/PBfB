@@ -1,8 +1,9 @@
 # PBfB
 #**This project is useful**
 #
-#
+#> If you ever need help,
+#> just ask this guy:
 ![GitHub Logo](/images/logo.png)
-(http://footage.framepool.com/shotimg/520960469-elsterdohle-dohle-beissen-schuetteln.jpg)
+Format: ![Alt Text](http://footage.framepool.com/shotimg/520960469-elsterdohle-dohle-beissen-schuetteln.jpg)
 
-For some of its favourite colours go to [GitHub Pages](https://www.e-paint.co.uk/pdfs/RAL%20colour%20chart.pdf)
+At the moment he is giving a talk about some of his favourite colours [GitHub Pages](https://www.e-paint.co.uk/pdfs/RAL%20colour%20chart.pdf)
