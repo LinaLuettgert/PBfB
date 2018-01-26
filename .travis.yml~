@@ -1,7 +1,0 @@
-install:
-  - sudo pip install proselint
-
-script: 
-  - proselint README.md
-
-npm install --save markdown-link-check
