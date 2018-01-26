@@ -1,8 +1,8 @@
 # PBfB
-#**This project is useful**
-#
-#> If you ever need help,
-#> just ask this guy:
+**This project is useful**
+
+> If you ever need help,
+> just ask this guy:
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](http://footage.framepool.com/shotimg/520960469-elsterdohle-dohle-beissen-schuetteln.jpg)
 
