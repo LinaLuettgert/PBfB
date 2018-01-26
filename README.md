@@ -1,5 +1,6 @@
 # PBfB
-**This project is useful**
+**This project is useful** :sunflower:
+
 /play ohmy
 
 If you ever need help, just ask this guy:
